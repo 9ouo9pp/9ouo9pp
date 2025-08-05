@@ -37,7 +37,7 @@
 
 ## Portfolio
 
-[👉 포트폴리오 보러가기](https://portfolio-kimjiyoon.vercel.app/) 
+[👉 포트폴리오 보러가기](https://portfolio-kimjiyoon.vercel.app/) <br/>
 [👉 노션 보러가기](https://regular-eyebrow-2fa.notion.site/Webdesigner-Portfolio-241c2e355cad8014b942ee6cd676e43d?source=copy_link) 
 <br/><br/><br/>
 
